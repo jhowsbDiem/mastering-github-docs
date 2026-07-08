@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Dúvidas gerais
+    url: https://github.com/jhowsbDiem/mastering-github-docs/discussions
+    about: Use as Discussions para tirar dúvidas que não sejam bugs ou sugestões de melhoria.
