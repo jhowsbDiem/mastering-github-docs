@@ -1,4 +1,4 @@
-##  تو Descrição
+## 📝 Descrição
 
 Por favor, inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes.
 
