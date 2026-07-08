@@ -1,0 +1,11 @@
+{
+  "default": true,
+  // Linhas longas são comuns em prosa e em tabelas; não vale a pena travar o CI por isso.
+  "MD013": false,
+  // Os guias usam emojis nos títulos (ex.: "## 🚀 Guia..."), então headings não seguem o estilo sentence-case padrão.
+  "MD003": false,
+  // Permite HTML inline pontual (ex.: quebras de linha em tabelas).
+  "MD033": false,
+  // Múltiplos H1 não se aplicam aqui pois cada arquivo já tem exatamente um.
+  "MD041": false
+}
