@@ -1,0 +1,17 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Node (usado por ferramentas de lint/CI locais, ex.: markdownlint-cli2)
+node_modules/
+npm-debug.log*
+
+# Logs e arquivos temporários
+*.log
+*.tmp
